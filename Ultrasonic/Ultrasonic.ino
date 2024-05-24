@@ -8,8 +8,8 @@
 
 //constants
 float duration_us, height;
-const char* ssid = "Rocky's iPhone";
-const char* password = "ycrx8370";
+const char* ssid = "";
+const char* password = "";
 
 
 // set up the 'ultrasonic' feed

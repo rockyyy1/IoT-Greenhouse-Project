@@ -2,15 +2,13 @@
 
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
-#define IO_USERNAME "RESETJ"
-#define IO_KEY "aio_dxBb34M5po3QFEazwQeiRAJqvVTd"
+#define IO_USERNAME ""
+#define IO_KEY ""
 
 /******************************* WIFI **************************************/
 
-//#define WIFI_SSID "IOT_2.4G"
-//#define WIFI_PASS "107WirelessNetwork"
-#define WIFI_SSID "Rocky's iPhone"
-#define WIFI_PASS "ycrx8370"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
 
 // uncomment the following line if you are using airlift
 //#define USE_AIRLIFT
